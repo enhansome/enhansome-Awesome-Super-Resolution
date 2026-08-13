@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "papers"
+    },
+    {
+      "description": "Note this table is referenced from here",
+      "items": [],
+      "title": "DL based approach"
+    },
+    {
+      "description": "More years papers, plase check Quick navigation",
+      "items": [],
+      "title": "2026"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:23:17.191Z",
+    "original_repository": "ChaofWang/Awesome-Super-Resolution",
+    "original_repository_sha": "dcb621b9f0e7aace751b8d1294a5aae3aadf721c",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Super-Resolution",
+    "enhanced_repository_description": null,
+    "title": "Awesome Quick navigation with stars"
+  }
+}
