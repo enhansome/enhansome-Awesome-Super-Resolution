@@ -1,7 +1,553 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Collect some super-resolution related papers, data and repositories.",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ENAF: A Multi-Exit Network with an Adaptive Patch Fusion for Large Image Super Resolution",
+                  "description": "ENAF WACV 2025 code CNN, dynamic network, multi-exit, patch fusion, efficient, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 852644600,
+                    "language": "Python",
+                    "last_commit": "2024-11-06T10:35:10Z",
+                    "owner": "nmduonggg",
+                    "repo": "ENAF",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Flow Straight to Reality: Perceptually Consistent Flow Matching for Efficient Image Restoration",
+                  "description": "PCFlow ECCV 2026 code flow matching, perceptual, distortion-perception, efficient, image, restoration",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1300151459,
+                    "language": "Python",
+                    "last_commit": "2026-08-11T05:35:47Z",
+                    "owner": "aiimaginglab",
+                    "repo": "PCFlow",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Decoupling Cross-Modality Manifold Discrepancy: Leveraging Visible Diffusion Priors for Infrared Super-Resolution",
+                  "description": "Shift-IISR ACM MM 2026 code diffusion, cross-modality, infrared, prior, image, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1309895284,
+                    "language": "Python",
+                    "last_commit": "2026-07-24T01:22:33Z",
+                    "owner": "Assassink8",
+                    "repo": "Shift-IISR",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration",
+                  "description": "QuReC ACM MM 2026 code transformer, query, attention, calibration, all-in-one, restoration",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1301230809,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T14:21:26Z",
+                    "owner": "zhoushen1",
+                    "repo": "QuReC",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NanoVSR: Towards Real-Time Video Super-Resolution on Edge Devices",
+                  "description": "NanoVSR ECCV 2026 code CNN, flow-free, real-time, edge device, video, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1277268702,
+                    "language": "Python",
+                    "last_commit": "2026-08-04T08:07:05Z",
+                    "owner": "filippawlicki",
+                    "repo": "nanovsr",
+                    "stars": 37
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FreqOrtho-SR: Frequency-Guided Orthogonal Expert Learning for Real-World Image Super-Resolution",
+                  "description": "FreqOrtho-SR ECCV 2026 code diffusion, frequency, mixture-of-experts, real-world, image, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1278874815,
+                    "language": "Python",
+                    "last_commit": "2026-08-21T05:13:28Z",
+                    "owner": "sonhm3029",
+                    "repo": "FreqOrtho-SR",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dual-Prior Guided Null-Space Learning with Mixture-of-Splines for Arbitrary Medical Slice Super-Resolution",
+                  "description": "DP-NSL ECCV 2026 code null-space, spline, arbitrary-scale, medical, slice, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 790642630,
+                    "language": null,
+                    "last_commit": "2026-06-26T02:19:39Z",
+                    "owner": "DeepMed-Lab-ECNU",
+                    "repo": "Medical-Image-Reconstruction",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TaskTok: Delving into Task Tokens for Task-driven Image Restoration",
+                  "description": "TaskTok ECCV 2026 code token, generative prior, task-driven, efficient, image, restoration",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1279986478,
+                    "language": "Python",
+                    "last_commit": "2026-07-01T07:48:50Z",
+                    "owner": "jimmy9704",
+                    "repo": "TaskTok",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LogicIR: Logic Gate Networks for Image Restoration",
+                  "description": "LogicIR ECCV 2026 code logic gate network, lightweight, efficient, inference, image, restoration",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1279979727,
+                    "language": "Python",
+                    "last_commit": "2026-07-10T05:56:29Z",
+                    "owner": "jimmy9704",
+                    "repo": "LogicIR",
+                    "stars": 20
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Fidelity- and Perception-Aware Local Implicit Attention for Arbitrary-Scale Image Super-Resolution",
+                  "description": "FPLIA ECCV 2026 code INR, attention, arbitrary-scale, fidelity, perceptual, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1092144703,
+                    "language": "Python",
+                    "last_commit": "2026-06-24T12:21:58Z",
+                    "owner": "XUSean0118",
+                    "repo": "FPLIA",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Linear Recurrent Unit with Semantic Modulation for Image Super-Resolution",
+                  "description": "LSM CVPR 2026 code linear recurrent unit, state space, semantic modulation, efficient, image, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1200476879,
+                    "language": "Python",
+                    "last_commit": "2026-08-13T13:07:29Z",
+                    "owner": "MingyuChoi-run",
+                    "repo": "LSM",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EvTexture++: Event-Driven Texture Enhancement for Video Super-Resolution",
+                  "description": "EvTexture++ TPAMI code event camera, recurrent, texture, video, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 802383145,
+                    "language": "Python",
+                    "last_commit": "2026-06-11T18:33:51Z",
+                    "owner": "DachunKai",
+                    "repo": "EvTexture",
+                    "stars": 1207
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Resolving Endpoint Underfitting in Diffusion Bridges via Noise Alignment",
+                  "description": "NADB CVPR 2026 code diffusion bridge, noise alignment, image, translation, restoration",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1176599976,
+                    "language": "Python",
+                    "last_commit": "2026-05-30T14:33:39Z",
+                    "owner": "gyr02",
+                    "repo": "NADB",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Expandable, Compressible, Mineable: Open-World Thermal Image Restoration",
+                  "description": "ECMRNet ICML 2026 code continual learning, open-world, thermal, infrared, all-in-one, restoration",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1195930389,
+                    "language": "Python",
+                    "last_commit": "2026-05-14T10:46:21Z",
+                    "owner": "Kust-lp",
+                    "repo": "ECMRNet",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Image Restoration via Diffusion Models with Dynamic Resolution",
+                  "description": "SubDAPS ICML 2026 code diffusion, posterior sampling, dynamic resolution, efficient, image, restoration",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1235429830,
+                    "language": "Python",
+                    "last_commit": "2026-05-12T09:42:43Z",
+                    "owner": "StarNextDay",
+                    "repo": "SubDAPS",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Breaking Degradation Coupling: A Structural Entropy Guided Decoupled Framework and Benchmark for Infrared Enhancement",
+                  "description": "SEGD CVPR 2026 code structural entropy, benchmark, thermal infrared, all-in-one, image, enhancement",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1198533508,
+                    "language": "Python",
+                    "last_commit": "2026-05-24T15:18:36Z",
+                    "owner": "Kust-lp",
+                    "repo": "SEGD",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Trust but Verify: Adaptive Conditioning for Reference-Based Diffusion Super-Resolution via Implicit Reference Correlation Modeling",
+                  "description": "Ada-RefSR ICLR2026 code diffusion, one-step, reference-based, attention, image, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1145607610,
+                    "language": "Python",
+                    "last_commit": "2026-05-19T11:31:10Z",
+                    "owner": "vivoCameraResearch",
+                    "repo": "AdaRefSR",
+                    "stars": 68
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion",
+                  "description": "LiveMoments ICLR 2026 code diffusion, flow-matching, reference-based, image, restoration, 4K",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1208704717,
+                    "language": "Python",
+                    "last_commit": "2026-06-04T23:11:49Z",
+                    "owner": "OpenVeraTeam",
+                    "repo": "LiveMoments",
+                    "stars": 30
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAT: Selective Aggregation Transformer for Image Super-Resolution",
+                  "description": "SAT CVPR 2026 code transformer, attention, image, efficient, reconstruction, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1198280930,
+                    "language": "Python",
+                    "last_commit": "2026-06-01T10:58:10Z",
+                    "owner": "PhuTran1005",
+                    "repo": "SAT",
+                    "stars": 40
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VOSR: A Vision-Only Generative Model for Image Super-Resolution",
+                  "description": "VOSR CVPR 2026 code diffusion, DiT, DINOv2, distillation, one-step, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1199148136,
+                    "language": "Python",
+                    "last_commit": "2026-08-22T15:58:01Z",
+                    "owner": "cswry",
+                    "repo": "VOSR",
+                    "stars": 178
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Beyond Ground-Truth: Leveraging Image Quality Priors for Real-World Image Restoration",
+                  "description": "IQPIR CVPR 2026 code GAN, transformer, image, real-world, codebook, perceptual",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1182964241,
+                    "language": "Python",
+                    "last_commit": "2026-06-07T20:30:52Z",
+                    "owner": "fengyang1399-pixel",
+                    "repo": "IQPIR",
+                    "stars": 30
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "UCAN: Unified Convolutional Attention Network for Expansive Receptive Fields in Lightweight Super-Resolution",
+                  "description": "UCAN CVPR 2026 code attention, CNN, lightweight, large-kernel, linear-attention, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1032166500,
+                    "language": "Python",
+                    "last_commit": "2026-04-17T06:35:33Z",
+                    "owner": "hokiyoshi",
+                    "repo": "UCAN",
+                    "stars": 43
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Towards Universal Computational Aberration Correction in Photographic Cameras: A Comprehensive Benchmark Analysis",
+                  "description": "UniCAC CVPR 2026 code benchmark, CNN, transformer, blind, aberration correction, image",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1179853497,
+                    "language": null,
+                    "last_commit": "2026-05-22T07:59:29Z",
+                    "owner": "XiaolongQian",
+                    "repo": "UniCAC",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Compressed-Domain-Aware Online Video Super-Resolution",
+                  "description": "CDA-VSR CVPR 2026 code CNN, video, compressed-domain, motion vectors, online, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1174279578,
+                    "language": "Python",
+                    "last_commit": "2026-08-13T12:58:35Z",
+                    "owner": "sspBIT",
+                    "repo": "CDA-VSR",
+                    "stars": 35
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Disentangled Textual Priors for Diffusion-based Image Super-Resolution",
+                  "description": "DTPSR CVPR 2026 code diffusion, cross-attention, frequency-aware, real-world, blind, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1170825250,
+                    "language": "Python",
+                    "last_commit": "2026-03-22T08:13:14Z",
+                    "owner": "JL6666JL",
+                    "repo": "DTPSR",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset",
+                  "description": "Real-IISR CVPR 2026 code autoregressive, codebook, infrared, real-world, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1163196019,
+                    "language": "Python",
+                    "last_commit": "2026-07-20T12:40:38Z",
+                    "owner": "JZD151",
+                    "repo": "Real-IISR",
+                    "stars": 55
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FiDeSR: High-Fidelity and Detail-Preserving One-Step Diffusion Super-Resolution",
+                  "description": "FiDeSR CVPR 2026 code diffusion, distillation, one-step, fidelity, image, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1167281008,
+                    "language": "Python",
+                    "last_commit": "2026-06-17T06:02:37Z",
+                    "owner": "Ar0Kim",
+                    "repo": "FiDeSR",
+                    "stars": 74
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning Domain-Aware Task Prompt Representations for Multi-Domain All-in-One Image Restoration",
+                  "description": "DATPRL-IR ICLR 2026 code transformer, prompt, distillation, image, all-in-one, restoration",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1168333859,
+                    "language": "Python",
+                    "last_commit": "2026-05-26T03:04:35Z",
+                    "owner": "GuangluDong0728",
+                    "repo": "DATPRL-IR",
+                    "stars": 18
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Downstream Task Inspired Underwater Image Enhancement: A Perception-Aware Study from Dataset Construction to Network Design",
+                  "description": "DTIUIE TIP code CNN, attention, underwater, perceptual, image",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1170514253,
+                    "language": "Python",
+                    "last_commit": "2026-03-17T03:03:06Z",
+                    "owner": "oucailab",
+                    "repo": "DTIUIE",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Reparameterized Tensor Ring Functional Decomposition for Multi-Dimensional Data Recovery",
+                  "description": "RepTRFD CVPR 2026 code INR, tensor, reconstruction, inpainting, point cloud",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1168261457,
+                    "language": "Python",
+                    "last_commit": "2026-07-16T03:21:22Z",
+                    "owner": "YangyangXu2002",
+                    "repo": "RepTRFD",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Neural Discrimination-Prompted Transformers for Efficient UHD Image Restoration and Enhancement",
+                  "description": "UHDPromer IJCV code transformer, attention, image, lightweight, restoration, 4K",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 809651017,
+                    "language": "Python",
+                    "last_commit": "2026-05-19T00:39:50Z",
+                    "owner": "supersupercong",
+                    "repo": "UHDPromer",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ShiftLUT: Spatial Shift Enhanced Look-Up Tables for Efficient Image Restoration",
+                  "description": "ShiftLUT CVPR 2026 code LUT, CNN, efficient, lightweight, image, restoration",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1171787192,
+                    "language": "Python",
+                    "last_commit": "2026-05-08T18:34:02Z",
+                    "owner": "Sailor-t",
+                    "repo": "ShiftLUT",
+                    "stars": 31
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DACESR: Degradation-Aware Conditional Embedding for Real-World Image Super-Resolution",
+                  "description": "DACESR TIP code Mamba, contrastive learning, real-world, image, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1059299817,
+                    "language": "Python",
+                    "last_commit": "2026-04-28T09:56:18Z",
+                    "owner": "nathan66666",
+                    "repo": "DACESR",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Physics-Consistent Diffusion for Efficient Fluid Super-Resolution via Multiscale Residual Correction",
+                  "description": "ReMD CVPR 2026 code diffusion, fluid, wavelet, multigrid, super-resolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1165316987,
+                    "language": "Python",
+                    "last_commit": "2026-06-08T08:16:06Z",
+                    "owner": "lizhihao2022",
+                    "repo": "ReMD",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Vascular anatomy-aware self-supervised pre-training for X-ray angiogram analysis",
+                  "description": "XA-SSL AAAI 2026 code transformer, masked image modeling, medical, pre-training, reconstruction",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1145702435,
+                    "language": "Python",
+                    "last_commit": "2026-03-05T03:10:45Z",
+                    "owner": "Dxhuang-CASIA",
+                    "repo": "XA-SSL",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": "More years papers, plase check Quick navigation",
+              "node_type": "group",
+              "title": "2026"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "papers"
+        }
+      ],
+      "title": "Awesome-Super-Resolution（in progress）"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T05:46:52.183Z",
+    "last_updated": "2026-08-24T14:02:31.525Z",
     "original_repository": "ChaofWang/Awesome-Super-Resolution",
     "original_repository_id": 182422786,
     "original_repository_sha": "3847a5b3b91490da406ca6d71e3e6b7cd431a1ee",
