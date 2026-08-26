@@ -184,7 +184,7 @@
                     "last_commit": "2026-06-11T18:33:51Z",
                     "owner": "DachunKai",
                     "repo": "EvTexture",
-                    "stars": 1208
+                    "stars": 1207
                   }
                 },
                 {
@@ -319,7 +319,7 @@
                     "last_commit": "2026-06-07T20:30:52Z",
                     "owner": "fengyang1399-pixel",
                     "repo": "IQPIR",
-                    "stars": 30
+                    "stars": 29
                   }
                 },
                 {
@@ -526,7 +526,7 @@
                     "archived": false,
                     "id": 1145702435,
                     "language": "Python",
-                    "last_commit": "2026-03-05T03:10:45Z",
+                    "last_commit": "2026-08-26T02:53:13Z",
                     "owner": "Dxhuang-CASIA",
                     "repo": "XA-SSL",
                     "stars": 6
@@ -547,7 +547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:52:42.755Z",
+    "last_updated": "2026-08-26T05:42:12.635Z",
     "original_repository": "ChaofWang/Awesome-Super-Resolution",
     "original_repository_id": 182422786,
     "original_repository_sha": "3847a5b3b91490da406ca6d71e3e6b7cd431a1ee",
