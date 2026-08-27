@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-11T05:35:47Z",
                     "owner": "aiimaginglab",
                     "repo": "PCFlow",
-                    "stars": 10
+                    "stars": 11
                   }
                 },
                 {
@@ -64,7 +64,7 @@
                     "last_commit": "2026-08-19T14:21:26Z",
                     "owner": "zhoushen1",
                     "repo": "QuReC",
-                    "stars": 9
+                    "stars": 10
                   }
                 },
                 {
@@ -79,7 +79,7 @@
                     "last_commit": "2026-08-04T08:07:05Z",
                     "owner": "filippawlicki",
                     "repo": "nanovsr",
-                    "stars": 37
+                    "stars": 38
                   }
                 },
                 {
@@ -91,7 +91,7 @@
                     "archived": false,
                     "id": 1278874815,
                     "language": "Python",
-                    "last_commit": "2026-08-21T05:13:28Z",
+                    "last_commit": "2026-08-27T08:09:00Z",
                     "owner": "sonhm3029",
                     "repo": "FreqOrtho-SR",
                     "stars": 12
@@ -304,7 +304,7 @@
                     "last_commit": "2026-08-22T15:58:01Z",
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 179
+                    "stars": 181
                   }
                 },
                 {
@@ -547,9 +547,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:42:12.635Z",
-    "original_repository": "ChaofWang/Awesome-Super-Resolution",
-    "original_repository_id": 182422786,
+    "last_updated": "2026-08-27T11:29:24.690Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 182422786,
+      "language": null,
+      "last_commit": "2026-08-19T07:17:44Z",
+      "owner": "ChaofWang",
+      "repo": "Awesome-Super-Resolution",
+      "stars": 3095
+    },
     "original_repository_sha": "3847a5b3b91490da406ca6d71e3e6b7cd431a1ee",
     "enhanced_repository": "enhansome/enhansome-Awesome-Super-Resolution",
     "enhanced_repository_description": null,
