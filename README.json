@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 852644600,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-11-06T10:35:10Z",
+                    "open_issues": 1,
                     "owner": "nmduonggg",
                     "repo": "ENAF",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -30,12 +35,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2026] Official repository for \"Flow Straight to Reality: Perceptually Consistent Flow Matching for Efficient Image Restoration\"",
+                    "homepage": null,
                     "id": 1300151459,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-11T05:35:47Z",
+                    "open_issues": 0,
                     "owner": "aiimaginglab",
                     "repo": "PCFlow",
-                    "stars": 12
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -46,12 +56,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACM MM 2026] Official implementation for \"Decoupling Cross-Modality Manifold Discrepancy: Leveraging Visible Diffusion Priors for Infrared Super-Resolution\".",
+                    "homepage": null,
                     "id": 1309895284,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-24T01:22:33Z",
+                    "open_issues": 0,
                     "owner": "Assassink8",
                     "repo": "Shift-IISR",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -62,12 +77,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACM MM 2026]QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration",
+                    "homepage": null,
                     "id": 1301230809,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-19T14:21:26Z",
+                    "open_issues": 3,
                     "owner": "zhoushen1",
                     "repo": "QuReC",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -78,12 +98,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2026] NanoVSR: Real-time video super-resolution on edge devices - official PyTorch implementation",
+                    "homepage": null,
                     "id": 1277268702,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-04T08:07:05Z",
+                    "open_issues": 0,
                     "owner": "filippawlicki",
                     "repo": "nanovsr",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": [
+                      "edgeai",
+                      "video-super-resolution",
+                      "vsr"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -94,12 +123,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2026] Official code repository for \"FreqOrtho-SR: Frequency-Guided Orthogonal Expert Learning for Real-World Image Super-Resolution\"",
+                    "homepage": null,
                     "id": 1278874815,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T08:09:00Z",
+                    "open_issues": 1,
                     "owner": "sonhm3029",
                     "repo": "FreqOrtho-SR",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "diffusion",
+                      "mixture-of-experts",
+                      "orthogonal-projection",
+                      "super-resolution"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -110,12 +149,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 790642630,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-06-26T02:19:39Z",
+                    "open_issues": 1,
                     "owner": "DeepMed-Lab-ECNU",
                     "repo": "Medical-Image-Reconstruction",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -126,12 +170,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2026] TaskTok: Delving into Task Tokens for Task-driven Image Restoration",
+                    "homepage": null,
                     "id": 1279986478,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-01T07:48:50Z",
+                    "open_issues": 1,
                     "owner": "jimmy9704",
                     "repo": "TaskTok",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -142,12 +191,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2026] LogicIR: Logic Gate Networks for Image Restoration",
+                    "homepage": null,
                     "id": 1279979727,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-10T05:56:29Z",
+                    "open_issues": 1,
                     "owner": "jimmy9704",
                     "repo": "LogicIR",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -158,12 +212,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official repo for FPLIA: Fidelity- and Perception-Aware Local Implicit Attention for Arbitrary-Scale Image Super-Resolution.",
+                    "homepage": null,
                     "id": 1092144703,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-06-24T12:21:58Z",
+                    "open_issues": 0,
                     "owner": "XUSean0118",
                     "repo": "FPLIA",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -174,12 +233,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official code of \"Linear Recurrent Unit with Semantic Modulation for Image Super-Resolution\" (CVPR 2026 Findings)",
+                    "homepage": null,
                     "id": 1200476879,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-13T13:07:29Z",
+                    "open_issues": 0,
                     "owner": "MingyuChoi-run",
                     "repo": "LSM",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -190,12 +254,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML 2024 & TPAMI 2026] EvTexture & EvTexture++: Event-Driven Texture Enhancement for Video Super-Resolution",
+                    "homepage": "https://dachunkai.github.io/evtexture.github.io/",
                     "id": 802383145,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-11T18:33:51Z",
+                    "open_issues": 23,
                     "owner": "DachunKai",
                     "repo": "EvTexture",
-                    "stars": 1207
+                    "stars": 1207,
+                    "topics": [
+                      "computational-photography",
+                      "event-camera",
+                      "pytorch",
+                      "video-restoration",
+                      "video-super-resolution"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -206,12 +281,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code of NADB",
+                    "homepage": null,
                     "id": 1176599976,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-30T14:33:39Z",
+                    "open_issues": 1,
                     "owner": "gyr02",
                     "repo": "NADB",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -222,12 +302,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1195930389,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-14T10:46:21Z",
+                    "open_issues": 1,
                     "owner": "Kust-lp",
                     "repo": "ECMRNet",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -238,12 +323,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is the official implementation of \"Image Restoration via Diffusion Models with Dynamic Resolution \" (ICML 2026).",
+                    "homepage": null,
                     "id": 1235429830,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-12T09:42:43Z",
+                    "open_issues": 1,
                     "owner": "StarNextDay",
                     "repo": "SubDAPS",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -254,12 +344,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Breaking Degradation Coupling: A Structural Entropy–Guided Decoupled Framework and Benchmark for Infrared Enhancement",
+                    "homepage": null,
                     "id": 1198533508,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-24T15:18:36Z",
+                    "open_issues": 0,
                     "owner": "Kust-lp",
                     "repo": "SEGD",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -270,12 +365,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AdaRefSR is a novel reference-based one-step diffusion super-resolution framework. Paper was accepted by ICLR2026.",
+                    "homepage": null,
                     "id": 1145607610,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-19T11:31:10Z",
+                    "open_issues": 1,
                     "owner": "vivoCameraResearch",
                     "repo": "AdaRefSR",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": [
+                      "one-step-diffusion-model",
+                      "reference-based-super-resolution",
+                      "stable-diffusion",
+                      "super-resolution"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -286,12 +391,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2026] Official implementation of the paper \"LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion\"",
+                    "homepage": null,
                     "id": 1208704717,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-04T23:11:49Z",
+                    "open_issues": 3,
                     "owner": "OpenVeraTeam",
                     "repo": "LiveMoments",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -302,12 +412,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2026 Findings] Official repository for \"SAT: Selective Aggregation Transformer for Image Super-Resolution\"",
+                    "homepage": null,
                     "id": 1198280930,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-01T10:58:10Z",
+                    "open_issues": 7,
                     "owner": "PhuTran1005",
                     "repo": "SAT",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -318,12 +433,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2026] VOSR: A Vision-Only Generative Model for Image Super-Resolution",
+                    "homepage": null,
                     "id": 1199148136,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T15:58:01Z",
+                    "open_issues": 9,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 181
+                    "stars": 181,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -334,12 +454,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IQPIR Code",
+                    "homepage": null,
                     "id": 1182964241,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-07T20:30:52Z",
+                    "open_issues": 0,
                     "owner": "fengyang1399-pixel",
                     "repo": "IQPIR",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -350,12 +475,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2026] Unified Convolutional Attention Network for Expansive Receptive Fields in Lightweight Super-Resolution",
+                    "homepage": null,
                     "id": 1032166500,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-17T06:35:33Z",
+                    "open_issues": 4,
                     "owner": "hokiyoshi",
                     "repo": "UCAN",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -366,12 +496,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2026] Towards Universal Computational Aberration Correction in Photographic Cameras: A Comprehensive Benchmark Analysis",
+                    "homepage": null,
                     "id": 1179853497,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-05-22T07:59:29Z",
+                    "open_issues": 3,
                     "owner": "XiaolongQian",
                     "repo": "UniCAC",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "aberration-correction"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -382,12 +519,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2026] Compressed-Domain-Aware Online Video Super-Resolution",
+                    "homepage": null,
                     "id": 1174279578,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-13T12:58:35Z",
+                    "open_issues": 2,
                     "owner": "sspBIT",
                     "repo": "CDA-VSR",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -398,12 +540,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1170825250,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-22T08:13:14Z",
+                    "open_issues": 4,
                     "owner": "JL6666JL",
                     "repo": "DTPSR",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -414,12 +561,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2026 Highlight] Official implementation for \"Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset\".",
+                    "homepage": null,
                     "id": 1163196019,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-20T12:40:38Z",
+                    "open_issues": 1,
                     "owner": "JZD151",
                     "repo": "Real-IISR",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -430,12 +582,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FiDeSR: High-Fidelity and Detail-Preserving One-Step Diffusion Super-Resolution",
+                    "homepage": null,
                     "id": 1167281008,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-06-17T06:02:37Z",
+                    "open_issues": 4,
                     "owner": "Ar0Kim",
                     "repo": "FiDeSR",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -446,12 +603,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official implementation of ICLR 2026 \"Learning Domain-Aware Task Prompt Representations for Multi-Domain All-in-One Image Restoration\".",
+                    "homepage": null,
                     "id": 1168333859,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-26T03:04:35Z",
+                    "open_issues": 1,
                     "owner": "GuangluDong0728",
                     "repo": "DATPRL-IR",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -462,12 +624,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "(TIP2026) Downstream Task Inspired Underwater Image Enhancement: A Perception-Aware Study from Dataset Construction to Network Design",
+                    "homepage": null,
                     "id": 1170514253,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-03-17T03:03:06Z",
+                    "open_issues": 2,
                     "owner": "oucailab",
                     "repo": "DTIUIE",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -478,12 +645,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of \"Reparameterized Tensor Ring Functional Decomposition for Multi-Dimensional Data Recovery, CVPR 2026\"",
+                    "homepage": null,
                     "id": 1168261457,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-16T03:21:22Z",
+                    "open_issues": 1,
                     "owner": "YangyangXu2002",
                     "repo": "RepTRFD",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -494,12 +666,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[IJCV'26] Neural Discrimination-Prompted Transformers for Efficient UHD Image Restoration and Enhancement",
+                    "homepage": null,
                     "id": 809651017,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-19T00:39:50Z",
+                    "open_issues": 1,
                     "owner": "supersupercong",
                     "repo": "UHDPromer",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -510,12 +687,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ShiftLUT: Spatial Shift Enhanced Look-Up Tables for Efficient Image Restoration",
+                    "homepage": "https://arxiv.org/abs/2603.00906",
                     "id": 1171787192,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-08T18:34:02Z",
+                    "open_issues": 5,
                     "owner": "Sailor-t",
                     "repo": "ShiftLUT",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": [
+                      "computer-vision",
+                      "cvpr2026",
+                      "image-restoration",
+                      "lut",
+                      "super-resolution"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -526,12 +714,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This work is accepted by IEEE Transactions on Image Processing (TIP).",
+                    "homepage": null,
                     "id": 1059299817,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-28T09:56:18Z",
+                    "open_issues": 3,
                     "owner": "nathan66666",
                     "repo": "DACESR",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -542,12 +735,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1165316987,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-08T08:16:06Z",
+                    "open_issues": 2,
                     "owner": "lizhihao2022",
                     "repo": "ReMD",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 },
@@ -558,12 +756,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1145702435,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-26T02:53:13Z",
+                    "open_issues": 1,
                     "owner": "Dxhuang-CASIA",
                     "repo": "XA-SSL",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
                 }
@@ -582,15 +785,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:20:32.271Z",
+    "last_updated": "2026-08-29T04:21:25.842Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collect super-resolution related papers, data, repositories",
+      "homepage": null,
       "id": 182422786,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-19T07:17:44Z",
+      "open_issues": 5,
       "owner": "ChaofWang",
       "repo": "Awesome-Super-Resolution",
-      "stars": 3096
+      "stars": 3096,
+      "topics": []
     },
     "original_repository_sha": "3847a5b3b91490da406ca6d71e3e6b7cd431a1ee",
     "enhanced_repository": "enhansome/enhansome-Awesome-Super-Resolution",
