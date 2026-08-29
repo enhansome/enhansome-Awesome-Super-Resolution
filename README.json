@@ -82,7 +82,7 @@
                     "id": 1301230809,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-08-19T14:21:26Z",
+                    "last_commit": "2026-08-29T05:54:57Z",
                     "open_issues": 3,
                     "owner": "zhoushen1",
                     "repo": "QuReC",
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:21:25.842Z",
+    "last_updated": "2026-08-29T11:34:41.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
