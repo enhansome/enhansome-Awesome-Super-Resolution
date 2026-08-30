@@ -77,7 +77,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "[ACM MM 2026]QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration",
+                    "description": "[ACM MM 2026][Oral]QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration",
                     "homepage": null,
                     "id": 1301230809,
                     "language": "Python",
@@ -442,7 +442,7 @@
                     "open_issues": 9,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 181,
+                    "stars": 182,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -744,7 +744,7 @@
                     "open_issues": 2,
                     "owner": "lizhihao2022",
                     "repo": "ReMD",
-                    "stars": 7,
+                    "stars": 8,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:34:41.597Z",
+    "last_updated": "2026-08-30T10:26:30.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
