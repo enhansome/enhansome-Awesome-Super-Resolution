@@ -442,7 +442,7 @@
                     "open_issues": 9,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 182,
+                    "stars": 183,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -567,10 +567,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-07-20T12:40:38Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "JZD151",
                     "repo": "Real-IISR",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:26:30.756Z",
+    "last_updated": "2026-08-31T11:32:03.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
