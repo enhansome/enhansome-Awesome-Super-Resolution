@@ -400,7 +400,7 @@
                     "open_issues": 3,
                     "owner": "OpenVeraTeam",
                     "repo": "LiveMoments",
-                    "stars": 31,
+                    "stars": 32,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 9,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 183,
+                    "stars": 184,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -525,7 +525,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-08-13T12:58:35Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "sspBIT",
                     "repo": "CDA-VSR",
                     "stars": 35,
@@ -591,7 +591,7 @@
                     "open_issues": 4,
                     "owner": "Ar0Kim",
                     "repo": "FiDeSR",
-                    "stars": 75,
+                    "stars": 76,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:32:03.553Z",
+    "last_updated": "2026-09-01T09:56:49.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
