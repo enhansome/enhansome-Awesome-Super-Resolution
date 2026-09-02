@@ -570,7 +570,7 @@
                     "open_issues": 2,
                     "owner": "JZD151",
                     "repo": "Real-IISR",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -654,7 +654,7 @@
                     "open_issues": 1,
                     "owner": "YangyangXu2002",
                     "repo": "RepTRFD",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T09:56:49.251Z",
+    "last_updated": "2026-09-02T09:28:20.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
