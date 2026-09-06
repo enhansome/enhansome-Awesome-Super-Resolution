@@ -44,7 +44,7 @@
                     "open_issues": 0,
                     "owner": "aiimaginglab",
                     "repo": "PCFlow",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -86,7 +86,7 @@
                     "open_issues": 3,
                     "owner": "zhoushen1",
                     "repo": "QuReC",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -107,7 +107,7 @@
                     "open_issues": 0,
                     "owner": "filippawlicki",
                     "repo": "nanovsr",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": [
                       "edgeai",
                       "video-super-resolution",
@@ -158,7 +158,7 @@
                     "open_issues": 1,
                     "owner": "DeepMed-Lab-ECNU",
                     "repo": "Medical-Image-Reconstruction",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -263,7 +263,7 @@
                     "open_issues": 23,
                     "owner": "DachunKai",
                     "repo": "EvTexture",
-                    "stars": 1207,
+                    "stars": 1208,
                     "topics": [
                       "computational-photography",
                       "event-camera",
@@ -353,7 +353,7 @@
                     "open_issues": 0,
                     "owner": "Kust-lp",
                     "repo": "SEGD",
-                    "stars": 4,
+                    "stars": 5,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 9,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 190,
+                    "stars": 193,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -696,7 +696,7 @@
                     "open_issues": 5,
                     "owner": "Sailor-t",
                     "repo": "ShiftLUT",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": [
                       "computer-vision",
                       "cvpr2026",
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:57:44.650Z",
+    "last_updated": "2026-09-06T09:18:25.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
