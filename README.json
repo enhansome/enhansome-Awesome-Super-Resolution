@@ -438,11 +438,11 @@
                     "id": 1199148136,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-22T15:58:01Z",
+                    "last_commit": "2026-09-08T03:10:13Z",
                     "open_issues": 9,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 197,
+                    "stars": 214,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -612,7 +612,7 @@
                     "open_issues": 1,
                     "owner": "GuangluDong0728",
                     "repo": "DATPRL-IR",
-                    "stars": 18,
+                    "stars": 17,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:08:17.595Z",
+    "last_updated": "2026-09-08T09:32:28.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
