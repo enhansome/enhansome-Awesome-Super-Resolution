@@ -107,7 +107,7 @@
                     "open_issues": 0,
                     "owner": "filippawlicki",
                     "repo": "nanovsr",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": [
                       "edgeai",
                       "video-super-resolution",
@@ -179,7 +179,7 @@
                     "open_issues": 1,
                     "owner": "jimmy9704",
                     "repo": "TaskTok",
-                    "stars": 19,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -200,7 +200,7 @@
                     "open_issues": 1,
                     "owner": "jimmy9704",
                     "repo": "LogicIR",
-                    "stars": 26,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -400,7 +400,7 @@
                     "open_issues": 3,
                     "owner": "OpenVeraTeam",
                     "repo": "LiveMoments",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 9,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 214,
+                    "stars": 232,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -633,7 +633,7 @@
                     "open_issues": 2,
                     "owner": "oucailab",
                     "repo": "DTIUIE",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T09:32:28.082Z",
+    "last_updated": "2026-09-09T09:35:30.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
@@ -797,7 +797,7 @@
       "open_issues": 5,
       "owner": "ChaofWang",
       "repo": "Awesome-Super-Resolution",
-      "stars": 3096,
+      "stars": 3097,
       "topics": []
     },
     "original_repository_sha": "3847a5b3b91490da406ca6d71e3e6b7cd431a1ee",
