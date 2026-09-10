@@ -132,7 +132,7 @@
                     "open_issues": 1,
                     "owner": "sonhm3029",
                     "repo": "FreqOrtho-SR",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": [
                       "diffusion",
                       "mixture-of-experts",
@@ -400,7 +400,7 @@
                     "open_issues": 3,
                     "owner": "OpenVeraTeam",
                     "repo": "LiveMoments",
-                    "stars": 34,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 9,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 232,
+                    "stars": 237,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -484,7 +484,7 @@
                     "open_issues": 4,
                     "owner": "hokiyoshi",
                     "repo": "UCAN",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -612,7 +612,7 @@
                     "open_issues": 1,
                     "owner": "GuangluDong0728",
                     "repo": "DATPRL-IR",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:35:30.682Z",
+    "last_updated": "2026-09-10T09:35:16.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
