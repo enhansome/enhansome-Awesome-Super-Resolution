@@ -200,7 +200,7 @@
                     "open_issues": 1,
                     "owner": "jimmy9704",
                     "repo": "LogicIR",
-                    "stars": 28,
+                    "stars": 30,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -221,7 +221,7 @@
                     "open_issues": 0,
                     "owner": "XUSean0118",
                     "repo": "FPLIA",
-                    "stars": 4,
+                    "stars": 5,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -374,7 +374,7 @@
                     "open_issues": 2,
                     "owner": "vivoCameraResearch",
                     "repo": "AdaRefSR",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": [
                       "one-step-diffusion-model",
                       "reference-based-super-resolution",
@@ -442,7 +442,7 @@
                     "open_issues": 9,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 237,
+                    "stars": 244,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -654,7 +654,7 @@
                     "open_issues": 1,
                     "owner": "YangyangXu2002",
                     "repo": "RepTRFD",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -765,7 +765,7 @@
                     "open_issues": 1,
                     "owner": "Dxhuang-CASIA",
                     "repo": "XA-SSL",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:35:16.353Z",
+    "last_updated": "2026-09-11T09:32:25.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
