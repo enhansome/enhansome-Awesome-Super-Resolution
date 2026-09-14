@@ -442,7 +442,7 @@
                     "open_issues": 9,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 247,
+                    "stars": 249,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -570,7 +570,7 @@
                     "open_issues": 2,
                     "owner": "JZD151",
                     "repo": "Real-IISR",
-                    "stars": 57,
+                    "stars": 58,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -696,7 +696,7 @@
                     "open_issues": 5,
                     "owner": "Sailor-t",
                     "repo": "ShiftLUT",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": [
                       "computer-vision",
                       "cvpr2026",
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T10:08:29.035Z",
+    "last_updated": "2026-09-14T10:31:29.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
