@@ -132,7 +132,7 @@
                     "open_issues": 1,
                     "owner": "sonhm3029",
                     "repo": "FreqOrtho-SR",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": [
                       "diffusion",
                       "mixture-of-experts",
@@ -200,7 +200,7 @@
                     "open_issues": 1,
                     "owner": "jimmy9704",
                     "repo": "LogicIR",
-                    "stars": 30,
+                    "stars": 31,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 9,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 249,
+                    "stars": 253,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:31:29.256Z",
+    "last_updated": "2026-09-15T09:58:25.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
@@ -797,7 +797,7 @@
       "open_issues": 5,
       "owner": "ChaofWang",
       "repo": "Awesome-Super-Resolution",
-      "stars": 3097,
+      "stars": 3096,
       "topics": []
     },
     "original_repository_sha": "3847a5b3b91490da406ca6d71e3e6b7cd431a1ee",
