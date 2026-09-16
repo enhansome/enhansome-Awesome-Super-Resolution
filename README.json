@@ -44,7 +44,7 @@
                     "open_issues": 0,
                     "owner": "aiimaginglab",
                     "repo": "PCFlow",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -132,7 +132,7 @@
                     "open_issues": 1,
                     "owner": "sonhm3029",
                     "repo": "FreqOrtho-SR",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": [
                       "diffusion",
                       "mixture-of-experts",
@@ -442,7 +442,7 @@
                     "open_issues": 9,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 253,
+                    "stars": 257,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -484,7 +484,7 @@
                     "open_issues": 4,
                     "owner": "hokiyoshi",
                     "repo": "UCAN",
-                    "stars": 46,
+                    "stars": 47,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T09:58:25.029Z",
+    "last_updated": "2026-09-16T09:50:38.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
