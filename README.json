@@ -263,7 +263,7 @@
                     "open_issues": 23,
                     "owner": "DachunKai",
                     "repo": "EvTexture",
-                    "stars": 1208,
+                    "stars": 1207,
                     "topics": [
                       "computational-photography",
                       "event-camera",
@@ -439,10 +439,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-08T03:10:13Z",
-                    "open_issues": 9,
+                    "open_issues": 10,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 260,
+                    "stars": 263,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -609,7 +609,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-05-26T03:04:35Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "GuangluDong0728",
                     "repo": "DATPRL-IR",
                     "stars": 18,
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:56:12.886Z",
+    "last_updated": "2026-09-18T09:36:16.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
