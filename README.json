@@ -442,7 +442,7 @@
                     "open_issues": 10,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 270,
+                    "stars": 274,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T09:43:12.885Z",
+    "last_updated": "2026-09-21T10:36:37.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
