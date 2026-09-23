@@ -107,7 +107,7 @@
                     "open_issues": 0,
                     "owner": "filippawlicki",
                     "repo": "nanovsr",
-                    "stars": 46,
+                    "stars": 47,
                     "topics": [
                       "edgeai",
                       "video-super-resolution",
@@ -418,7 +418,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-06-01T10:58:10Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "PhuTran1005",
                     "repo": "SAT",
                     "stars": 40,
@@ -439,10 +439,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-08T03:10:13Z",
-                    "open_issues": 10,
+                    "open_issues": 12,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 276,
+                    "stars": 278,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -484,7 +484,7 @@
                     "open_issues": 4,
                     "owner": "hokiyoshi",
                     "repo": "UCAN",
-                    "stars": 47,
+                    "stars": 48,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -609,7 +609,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-05-26T03:04:35Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "GuangluDong0728",
                     "repo": "DATPRL-IR",
                     "stars": 19,
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T09:50:39.671Z",
+    "last_updated": "2026-09-23T09:52:20.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
