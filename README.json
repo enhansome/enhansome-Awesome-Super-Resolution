@@ -86,7 +86,7 @@
                     "open_issues": 3,
                     "owner": "zhoushen1",
                     "repo": "QuReC",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -107,7 +107,7 @@
                     "open_issues": 0,
                     "owner": "filippawlicki",
                     "repo": "nanovsr",
-                    "stars": 49,
+                    "stars": 51,
                     "topics": [
                       "edgeai",
                       "video-super-resolution",
@@ -179,7 +179,7 @@
                     "open_issues": 1,
                     "owner": "jimmy9704",
                     "repo": "TaskTok",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 12,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 289,
+                    "stars": 292,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -693,10 +693,10 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-05-08T18:34:02Z",
-                    "open_issues": 5,
+                    "open_issues": 4,
                     "owner": "Sailor-t",
                     "repo": "ShiftLUT",
-                    "stars": 34,
+                    "stars": 33,
                     "topics": [
                       "computer-vision",
                       "cvpr2026",
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:37:19.128Z",
+    "last_updated": "2026-09-29T11:16:20.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
