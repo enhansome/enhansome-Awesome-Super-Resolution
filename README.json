@@ -132,7 +132,7 @@
                     "open_issues": 1,
                     "owner": "sonhm3029",
                     "repo": "FreqOrtho-SR",
-                    "stars": 16,
+                    "stars": 15,
                     "topics": [
                       "diffusion",
                       "mixture-of-experts",
@@ -400,7 +400,7 @@
                     "open_issues": 3,
                     "owner": "OpenVeraTeam",
                     "repo": "LiveMoments",
-                    "stars": 37,
+                    "stars": 38,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:31:27.303Z",
+    "last_updated": "2026-10-02T11:00:27.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
