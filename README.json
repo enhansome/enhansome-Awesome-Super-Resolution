@@ -179,7 +179,7 @@
                     "open_issues": 1,
                     "owner": "jimmy9704",
                     "repo": "TaskTok",
-                    "stars": 22,
+                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 12,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 298,
+                    "stars": 299,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:20:17.408Z",
+    "last_updated": "2026-10-04T11:03:12.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
@@ -797,7 +797,7 @@
       "open_issues": 6,
       "owner": "ChaofWang",
       "repo": "Awesome-Super-Resolution",
-      "stars": 3098,
+      "stars": 3099,
       "topics": []
     },
     "original_repository_sha": "3847a5b3b91490da406ca6d71e3e6b7cd431a1ee",
