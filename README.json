@@ -103,7 +103,7 @@
                     "id": 1277268702,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-04T08:07:05Z",
+                    "last_commit": "2026-10-04T20:05:34Z",
                     "open_issues": 0,
                     "owner": "filippawlicki",
                     "repo": "nanovsr",
@@ -332,7 +332,7 @@
                     "open_issues": 1,
                     "owner": "StarNextDay",
                     "repo": "SubDAPS",
-                    "stars": 4,
+                    "stars": 5,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:03:12.029Z",
+    "last_updated": "2026-10-05T12:11:54.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
