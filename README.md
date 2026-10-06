@@ -26,7 +26,7 @@ Collect some super-resolution related papers, data and repositories.
 
 ### DL based approach
 
-Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperResolution/blob/master/README.md#network-list-and-reference-updating) ⭐ 1,688 | 🐛 8 | 🌐 Python | 📅 2020-09-11
+Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperResolution/blob/master/README.md#network-list-and-reference-updating) ⭐ 1,687 | 🐛 8 | 🌐 Python | 📅 2020-09-11
 
 ### 2026
 
@@ -55,7 +55,7 @@ More years papers, plase check Quick navigation
 | LogicIR: Logic Gate Networks for Image Restoration                                                                                 | LogicIR      | [ECCV 2026](https://arxiv.org/abs/2606.26609)          | [code](https://github.com/jimmy9704/LogicIR) ⭐ 33 \| 🐛 1 \| 🌐 Python \| 📅 2026-07-10                | logic gate network, lightweight, efficient, inference, image, restoration                   |
 | Fidelity- and Perception-Aware Local Implicit Attention for Arbitrary-Scale Image Super-Resolution                                 | FPLIA        | [ECCV 2026](https://arxiv.org/abs/2606.21910)          | [code](https://github.com/XUSean0118/FPLIA) ⭐ 5 \| 🐛 0 \| 🌐 Python \| 📅 2026-09-03                  | INR, attention, arbitrary-scale, fidelity, perceptual, super-resolution                     |
 | Linear Recurrent Unit with Semantic Modulation for Image Super-Resolution                                                          | LSM          | [CVPR 2026](https://arxiv.org/abs/2606.19901)          | [code](https://github.com/MingyuChoi-run/LSM) ⭐ 18 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-13               | linear recurrent unit, state space, semantic modulation, efficient, image, super-resolution |
-| EvTexture++: Event-Driven Texture Enhancement for Video Super-Resolution                                                           | EvTexture++  | [TPAMI](https://arxiv.org/abs/2606.13580)              | [code](https://github.com/DachunKai/EvTexture) ⭐ 1,208 \| 🐛 23 \| 🌐 Python \| 📅 2026-06-11          | event camera, recurrent, texture, video, super-resolution                                   |
+| EvTexture++: Event-Driven Texture Enhancement for Video Super-Resolution                                                           | EvTexture++  | [TPAMI](https://arxiv.org/abs/2606.13580)              | [code](https://github.com/DachunKai/EvTexture) ⭐ 1,207 \| 🐛 23 \| 🌐 Python \| 📅 2026-06-11          | event camera, recurrent, texture, video, super-resolution                                   |
 | Resolving Endpoint Underfitting in Diffusion Bridges via Noise Alignment                                                           | NADB         | [CVPR 2026](https://arxiv.org/abs/2605.28962)          | [code](https://github.com/gyr02/NADB) ⭐ 2 \| 🐛 1 \| 🌐 Python \| 📅 2026-05-30                        | diffusion bridge, noise alignment, image, translation, restoration                          |
 | Expandable, Compressible, Mineable: Open-World Thermal Image Restoration                                                           | ECMRNet      | [ICML 2026](https://arxiv.org/abs/2605.16967)          | [code](https://github.com/Kust-lp/ECMRNet) ⭐ 3 \| 🐛 1 \| 🌐 Python \| 📅 2026-05-14                   | continual learning, open-world, thermal, infrared, all-in-one, restoration                  |
 | Image Restoration via Diffusion Models with Dynamic Resolution                                                                     | SubDAPS      | [ICML 2026](https://arxiv.org/abs/2605.14267)          | [code](https://github.com/StarNextDay/SubDAPS.git) ⭐ 5 \| 🐛 1 \| 🌐 Python \| 📅 2026-05-12           | diffusion, posterior sampling, dynamic resolution, efficient, image, restoration            |
@@ -98,4 +98,4 @@ More years papers, plase check Quick navigation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
