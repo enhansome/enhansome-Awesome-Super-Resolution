@@ -129,7 +129,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-27T08:09:00Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "sonhm3029",
                     "repo": "FreqOrtho-SR",
                     "stars": 15,
@@ -439,10 +439,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-08T03:10:13Z",
-                    "open_issues": 12,
+                    "open_issues": 13,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 301,
+                    "stars": 303,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -591,7 +591,7 @@
                     "open_issues": 4,
                     "owner": "Ar0Kim",
                     "repo": "FiDeSR",
-                    "stars": 81,
+                    "stars": 82,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -633,7 +633,7 @@
                     "open_issues": 2,
                     "owner": "oucailab",
                     "repo": "DTIUIE",
-                    "stars": 18,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:41:03.228Z",
+    "last_updated": "2026-10-08T11:55:53.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
@@ -797,7 +797,7 @@
       "open_issues": 6,
       "owner": "ChaofWang",
       "repo": "Awesome-Super-Resolution",
-      "stars": 3099,
+      "stars": 3100,
       "topics": []
     },
     "original_repository_sha": "3847a5b3b91490da406ca6d71e3e6b7cd431a1ee",
