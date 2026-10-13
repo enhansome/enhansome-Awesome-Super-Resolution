@@ -86,7 +86,7 @@
                     "open_issues": 3,
                     "owner": "zhoushen1",
                     "repo": "QuReC",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -107,7 +107,7 @@
                     "open_issues": 0,
                     "owner": "filippawlicki",
                     "repo": "nanovsr",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": [
                       "edgeai",
                       "video-super-resolution",
@@ -242,7 +242,7 @@
                     "open_issues": 0,
                     "owner": "MingyuChoi-run",
                     "repo": "LSM",
-                    "stars": 18,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -290,7 +290,7 @@
                     "open_issues": 1,
                     "owner": "gyr02",
                     "repo": "NADB",
-                    "stars": 2,
+                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 13,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 314,
+                    "stars": 317,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -528,7 +528,7 @@
                     "open_issues": 3,
                     "owner": "sspBIT",
                     "repo": "CDA-VSR",
-                    "stars": 37,
+                    "stars": 38,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -630,10 +630,10 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-03-17T03:03:06Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "oucailab",
                     "repo": "DTIUIE",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T13:00:46.876Z",
+    "last_updated": "2026-10-13T12:35:59.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
@@ -797,7 +797,7 @@
       "open_issues": 6,
       "owner": "ChaofWang",
       "repo": "Awesome-Super-Resolution",
-      "stars": 3101,
+      "stars": 3102,
       "topics": []
     },
     "original_repository_sha": "3847a5b3b91490da406ca6d71e3e6b7cd431a1ee",
