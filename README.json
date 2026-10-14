@@ -200,7 +200,7 @@
                     "open_issues": 1,
                     "owner": "jimmy9704",
                     "repo": "LogicIR",
-                    "stars": 34,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -374,7 +374,7 @@
                     "open_issues": 3,
                     "owner": "vivoCameraResearch",
                     "repo": "AdaRefSR",
-                    "stars": 69,
+                    "stars": 70,
                     "topics": [
                       "one-step-diffusion-model",
                       "reference-based-super-resolution",
@@ -442,7 +442,7 @@
                     "open_issues": 13,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 317,
+                    "stars": 319,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -609,7 +609,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-05-26T03:04:35Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "GuangluDong0728",
                     "repo": "DATPRL-IR",
                     "stars": 19,
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:35:59.419Z",
+    "last_updated": "2026-10-14T10:03:04.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
