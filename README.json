@@ -179,7 +179,7 @@
                     "open_issues": 1,
                     "owner": "jimmy9704",
                     "repo": "TaskTok",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -221,7 +221,7 @@
                     "open_issues": 0,
                     "owner": "XUSean0118",
                     "repo": "FPLIA",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 13,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 319,
+                    "stars": 323,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -633,7 +633,7 @@
                     "open_issues": 3,
                     "owner": "oucailab",
                     "repo": "DTIUIE",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T10:03:04.658Z",
+    "last_updated": "2026-10-15T09:45:55.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
@@ -797,7 +797,7 @@
       "open_issues": 6,
       "owner": "ChaofWang",
       "repo": "Awesome-Super-Resolution",
-      "stars": 3102,
+      "stars": 3101,
       "topics": []
     },
     "original_repository_sha": "3847a5b3b91490da406ca6d71e3e6b7cd431a1ee",
