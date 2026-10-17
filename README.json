@@ -263,7 +263,7 @@
                     "open_issues": 23,
                     "owner": "DachunKai",
                     "repo": "EvTexture",
-                    "stars": 1208,
+                    "stars": 1209,
                     "topics": [
                       "computational-photography",
                       "event-camera",
@@ -442,7 +442,7 @@
                     "open_issues": 13,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 324,
+                    "stars": 326,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T09:39:01.464Z",
+    "last_updated": "2026-10-17T09:10:50.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
@@ -797,7 +797,7 @@
       "open_issues": 6,
       "owner": "ChaofWang",
       "repo": "Awesome-Super-Resolution",
-      "stars": 3101,
+      "stars": 3102,
       "topics": []
     },
     "original_repository_sha": "3847a5b3b91490da406ca6d71e3e6b7cd431a1ee",
