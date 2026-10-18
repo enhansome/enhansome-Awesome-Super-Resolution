@@ -86,7 +86,7 @@
                     "open_issues": 3,
                     "owner": "zhoushen1",
                     "repo": "QuReC",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 13,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 326,
+                    "stars": 327,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -756,7 +756,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": null,
+                    "description": "[IEEE TBME 2026 & AAAI 2026] Vascular Anatomy-Aware Self-Supervised Pre-Training for X-ray Angiogram Analysis",
                     "homepage": null,
                     "id": 1145702435,
                     "language": "Python",
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T09:10:50.681Z",
+    "last_updated": "2026-10-18T09:27:52.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
