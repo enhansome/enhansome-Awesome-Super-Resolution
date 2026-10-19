@@ -107,7 +107,7 @@
                     "open_issues": 0,
                     "owner": "filippawlicki",
                     "repo": "nanovsr",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": [
                       "edgeai",
                       "video-super-resolution",
@@ -200,7 +200,7 @@
                     "open_issues": 1,
                     "owner": "jimmy9704",
                     "repo": "LogicIR",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -421,7 +421,7 @@
                     "open_issues": 8,
                     "owner": "PhuTran1005",
                     "repo": "SAT",
-                    "stars": 40,
+                    "stars": 41,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 13,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 327,
+                    "stars": 331,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -591,7 +591,7 @@
                     "open_issues": 4,
                     "owner": "Ar0Kim",
                     "repo": "FiDeSR",
-                    "stars": 83,
+                    "stars": 84,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -672,7 +672,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-05-19T00:39:50Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "supersupercong",
                     "repo": "UHDPromer",
                     "stars": 12,
@@ -761,7 +761,7 @@
                     "id": 1145702435,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-08-26T02:53:13Z",
+                    "last_commit": "2026-10-18T12:13:13Z",
                     "open_issues": 1,
                     "owner": "Dxhuang-CASIA",
                     "repo": "XA-SSL",
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T09:27:52.862Z",
+    "last_updated": "2026-10-19T10:40:14.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
@@ -794,7 +794,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-19T07:17:44Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "ChaofWang",
       "repo": "Awesome-Super-Resolution",
       "stars": 3102,
