@@ -463,7 +463,7 @@
                     "open_issues": 0,
                     "owner": "fengyang1399-pixel",
                     "repo": "IQPIR",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -570,7 +570,7 @@
                     "open_issues": 2,
                     "owner": "JZD151",
                     "repo": "Real-IISR",
-                    "stars": 58,
+                    "stars": 59,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -723,7 +723,7 @@
                     "open_issues": 3,
                     "owner": "nathan66666",
                     "repo": "DACESR",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T10:40:14.858Z",
+    "last_updated": "2026-10-20T09:56:47.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
