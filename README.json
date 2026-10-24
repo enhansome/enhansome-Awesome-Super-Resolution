@@ -442,7 +442,7 @@
                     "open_issues": 13,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 337,
+                    "stars": 338,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -654,7 +654,7 @@
                     "open_issues": 1,
                     "owner": "YangyangXu2002",
                     "repo": "RepTRFD",
-                    "stars": 15,
+                    "stars": 16,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -671,7 +671,7 @@
                     "id": 809651017,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-21T01:29:16Z",
+                    "last_commit": "2026-10-24T01:39:20Z",
                     "open_issues": 1,
                     "owner": "supersupercong",
                     "repo": "UHDPromer",
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:55:26.082Z",
+    "last_updated": "2026-10-24T09:25:06.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
