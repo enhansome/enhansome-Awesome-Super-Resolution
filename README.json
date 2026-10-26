@@ -442,7 +442,7 @@
                     "open_issues": 13,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 340,
+                    "stars": 341,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -528,7 +528,7 @@
                     "open_issues": 3,
                     "owner": "sspBIT",
                     "repo": "CDA-VSR",
-                    "stars": 38,
+                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:43:33.863Z",
+    "last_updated": "2026-10-26T10:57:30.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
