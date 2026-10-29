@@ -179,7 +179,7 @@
                     "open_issues": 1,
                     "owner": "jimmy9704",
                     "repo": "TaskTok",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 13,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 343,
+                    "stars": 345,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -591,7 +591,7 @@
                     "open_issues": 4,
                     "owner": "Ar0Kim",
                     "repo": "FiDeSR",
-                    "stars": 87,
+                    "stars": 88,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -696,7 +696,7 @@
                     "open_issues": 4,
                     "owner": "Sailor-t",
                     "repo": "ShiftLUT",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": [
                       "computer-vision",
                       "cvpr2026",
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T11:13:56.737Z",
+    "last_updated": "2026-10-29T11:26:23.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
