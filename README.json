@@ -107,7 +107,7 @@
                     "open_issues": 0,
                     "owner": "filippawlicki",
                     "repo": "nanovsr",
-                    "stars": 63,
+                    "stars": 64,
                     "topics": [
                       "edgeai",
                       "video-super-resolution",
@@ -263,7 +263,7 @@
                     "open_issues": 23,
                     "owner": "DachunKai",
                     "repo": "EvTexture",
-                    "stars": 1209,
+                    "stars": 1210,
                     "topics": [
                       "computational-photography",
                       "event-camera",
@@ -374,7 +374,7 @@
                     "open_issues": 3,
                     "owner": "vivoCameraResearch",
                     "repo": "AdaRefSR",
-                    "stars": 71,
+                    "stars": 72,
                     "topics": [
                       "one-step-diffusion-model",
                       "reference-based-super-resolution",
@@ -442,7 +442,7 @@
                     "open_issues": 13,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 345,
+                    "stars": 346,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -481,7 +481,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-04-17T06:35:33Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "hokiyoshi",
                     "repo": "UCAN",
                     "stars": 51,
@@ -591,7 +591,7 @@
                     "open_issues": 4,
                     "owner": "Ar0Kim",
                     "repo": "FiDeSR",
-                    "stars": 88,
+                    "stars": 89,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -612,7 +612,7 @@
                     "open_issues": 3,
                     "owner": "GuangluDong0728",
                     "repo": "DATPRL-IR",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T11:26:23.263Z",
+    "last_updated": "2026-10-30T11:17:45.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
