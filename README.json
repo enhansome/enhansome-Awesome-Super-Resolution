@@ -86,7 +86,7 @@
                     "open_issues": 3,
                     "owner": "zhoushen1",
                     "repo": "QuReC",
-                    "stars": 15,
+                    "stars": 16,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 14,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 350,
+                    "stars": 351,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -591,7 +591,7 @@
                     "open_issues": 4,
                     "owner": "Ar0Kim",
                     "repo": "FiDeSR",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -612,7 +612,7 @@
                     "open_issues": 3,
                     "owner": "GuangluDong0728",
                     "repo": "DATPRL-IR",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:54:02.978Z",
+    "last_updated": "2026-11-05T13:02:35.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
