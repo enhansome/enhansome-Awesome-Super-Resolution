@@ -107,7 +107,7 @@
                     "open_issues": 0,
                     "owner": "filippawlicki",
                     "repo": "nanovsr",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": [
                       "edgeai",
                       "video-super-resolution",
@@ -158,7 +158,7 @@
                     "open_issues": 1,
                     "owner": "DeepMed-Lab-ECNU",
                     "repo": "Medical-Image-Reconstruction",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 14,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 351,
+                    "stars": 353,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T13:02:35.459Z",
+    "last_updated": "2026-11-06T12:51:04.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
