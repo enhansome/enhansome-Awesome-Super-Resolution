@@ -290,7 +290,7 @@
                     "open_issues": 1,
                     "owner": "gyr02",
                     "repo": "NADB",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -374,7 +374,7 @@
                     "open_issues": 3,
                     "owner": "vivoCameraResearch",
                     "repo": "AdaRefSR",
-                    "stars": 72,
+                    "stars": 73,
                     "topics": [
                       "one-step-diffusion-model",
                       "reference-based-super-resolution",
@@ -570,7 +570,7 @@
                     "open_issues": 2,
                     "owner": "JZD151",
                     "repo": "Real-IISR",
-                    "stars": 60,
+                    "stars": 61,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -633,7 +633,7 @@
                     "open_issues": 3,
                     "owner": "oucailab",
                     "repo": "DTIUIE",
-                    "stars": 22,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T11:51:06.611Z",
+    "last_updated": "2026-11-09T13:46:19.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
