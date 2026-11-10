@@ -107,7 +107,7 @@
                     "open_issues": 0,
                     "owner": "filippawlicki",
                     "repo": "nanovsr",
-                    "stars": 69,
+                    "stars": 71,
                     "topics": [
                       "edgeai",
                       "video-super-resolution",
@@ -217,7 +217,7 @@
                     "id": 1092144703,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-09-03T10:28:08Z",
+                    "last_commit": "2026-11-10T07:10:51Z",
                     "open_issues": 0,
                     "owner": "XUSean0118",
                     "repo": "FPLIA",
@@ -442,7 +442,7 @@
                     "open_issues": 14,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 353,
+                    "stars": 352,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -696,7 +696,7 @@
                     "open_issues": 4,
                     "owner": "Sailor-t",
                     "repo": "ShiftLUT",
-                    "stars": 34,
+                    "stars": 35,
                     "topics": [
                       "computer-vision",
                       "cvpr2026",
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T13:46:19.467Z",
+    "last_updated": "2026-11-10T13:23:35.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
