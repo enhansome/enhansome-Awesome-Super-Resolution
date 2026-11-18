@@ -528,7 +528,7 @@
                     "open_issues": 3,
                     "owner": "sspBIT",
                     "repo": "CDA-VSR",
-                    "stars": 40,
+                    "stars": 41,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T14:15:37.256Z",
+    "last_updated": "2026-11-18T13:47:45.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
