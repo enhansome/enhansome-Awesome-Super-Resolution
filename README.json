@@ -221,7 +221,7 @@
                     "open_issues": 0,
                     "owner": "XUSean0118",
                     "repo": "FPLIA",
-                    "stars": 7,
+                    "stars": 8,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -421,7 +421,7 @@
                     "open_issues": 8,
                     "owner": "PhuTran1005",
                     "repo": "SAT",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 14,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 358,
+                    "stars": 367,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T13:47:45.560Z",
+    "last_updated": "2026-11-19T14:17:02.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
