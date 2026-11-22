@@ -107,7 +107,7 @@
                     "open_issues": 0,
                     "owner": "filippawlicki",
                     "repo": "nanovsr",
-                    "stars": 71,
+                    "stars": 72,
                     "topics": [
                       "edgeai",
                       "video-super-resolution",
@@ -374,7 +374,7 @@
                     "open_issues": 3,
                     "owner": "vivoCameraResearch",
                     "repo": "AdaRefSR",
-                    "stars": 73,
+                    "stars": 74,
                     "topics": [
                       "one-step-diffusion-model",
                       "reference-based-super-resolution",
@@ -612,7 +612,7 @@
                     "open_issues": 3,
                     "owner": "GuangluDong0728",
                     "repo": "DATPRL-IR",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T13:21:36.384Z",
+    "last_updated": "2026-11-22T13:13:43.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
