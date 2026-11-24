@@ -442,7 +442,7 @@
                     "open_issues": 14,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 369,
+                    "stars": 371,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -570,7 +570,7 @@
                     "open_issues": 3,
                     "owner": "JZD151",
                     "repo": "Real-IISR",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -591,7 +591,7 @@
                     "open_issues": 4,
                     "owner": "Ar0Kim",
                     "repo": "FiDeSR",
-                    "stars": 90,
+                    "stars": 91,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T15:51:21.999Z",
+    "last_updated": "2026-11-24T15:42:29.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
