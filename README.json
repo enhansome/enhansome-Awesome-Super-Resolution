@@ -132,7 +132,7 @@
                     "open_issues": 0,
                     "owner": "sonhm3029",
                     "repo": "FreqOrtho-SR",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": [
                       "diffusion",
                       "mixture-of-experts",
@@ -263,7 +263,7 @@
                     "open_issues": 23,
                     "owner": "DachunKai",
                     "repo": "EvTexture",
-                    "stars": 1208,
+                    "stars": 1209,
                     "topics": [
                       "computational-photography",
                       "event-camera",
@@ -442,7 +442,7 @@
                     "open_issues": 14,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 371,
+                    "stars": 373,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T15:42:29.157Z",
+    "last_updated": "2026-11-25T15:26:40.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
