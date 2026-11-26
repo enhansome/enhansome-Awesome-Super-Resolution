@@ -242,7 +242,7 @@
                     "open_issues": 0,
                     "owner": "MingyuChoi-run",
                     "repo": "LSM",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 14,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 373,
+                    "stars": 377,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -528,7 +528,7 @@
                     "open_issues": 3,
                     "owner": "sspBIT",
                     "repo": "CDA-VSR",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T15:26:40.740Z",
+    "last_updated": "2026-11-26T14:58:06.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
