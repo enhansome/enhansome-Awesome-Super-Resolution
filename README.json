@@ -44,7 +44,7 @@
                     "open_issues": 0,
                     "owner": "aiimaginglab",
                     "repo": "PCFlow",
-                    "stars": 16,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 14,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 377,
+                    "stars": 378,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T14:58:06.120Z",
+    "last_updated": "2026-11-27T14:53:51.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
