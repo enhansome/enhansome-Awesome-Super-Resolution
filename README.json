@@ -107,7 +107,7 @@
                     "open_issues": 0,
                     "owner": "filippawlicki",
                     "repo": "nanovsr",
-                    "stars": 72,
+                    "stars": 73,
                     "topics": [
                       "edgeai",
                       "video-super-resolution",
@@ -421,7 +421,7 @@
                     "open_issues": 8,
                     "owner": "PhuTran1005",
                     "repo": "SAT",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -442,7 +442,7 @@
                     "open_issues": 14,
                     "owner": "cswry",
                     "repo": "VOSR",
-                    "stars": 378,
+                    "stars": 379,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:32.271Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T14:53:51.010Z",
+    "last_updated": "2026-11-28T14:02:56.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect super-resolution related papers, data, repositories",
